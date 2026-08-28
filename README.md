@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Luan 👋
 
-Tenho 17 anos, Sou estudante e faço curso de **Técnico em Informática** no Senac/Heitor Penteado, em Americana - SP, com interesse em tecnologia, desenvolvimento de software e criação de projetos digitais.
+ Sou estudante e faço curso de **Técnico em Informática** no Senac/Heitor Penteado, em Americana - SP, com interesse em tecnologia, desenvolvimento de software e criação de projetos digitais.
 
 💻 **Sobre mim**
 
