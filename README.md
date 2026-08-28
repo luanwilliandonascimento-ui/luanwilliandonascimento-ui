@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/?lines=My+name+is+Luan+Willian;)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Trotti;)](https://git.io/typing-svg)
 
 # Olá! Eu sou Luan 👋
 
