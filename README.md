@@ -1,54 +1,62 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Luan+Willian;)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-# Olá! Eu sou Luan 👋
+## Sobre mim
 
- Sou estudante e faço curso de **Técnico em Informática** no Senac/Heitor Penteado, em Americana - SP, com interesse em tecnologia, desenvolvimento de software e criação de projetos digitais.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-💻 **Sobre mim**
+## Minhas Skills
 
-* 🎓 Estudante de Técnico em Informática
-* 📍 Americana, São Paulo, Brasil
-* 💡 Interessado em programação, desenvolvimento de sistemas e tecnologia
-* 🛠️ Gosto de aprender na prática, desenvolvendo projetos e experimentando novas ferramentas
-* 🎨 Também tenho interesse em edição de vídeos e criação de conteúdo digital
+**Aplicações e dados**
 
-## 🚀 Interesses
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-Tenho interesse principalmente em:
+**Utilidades**
 
-* Desenvolvimento de software
-* Programação
-* Desenvolvimento web
-* Banco de dados
-* Sistemas e tecnologia
-* Edição e criação de conteúdo
-* Aprendizado de novas ferramentas e linguagens
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-## 🎓 Formação
+**DevOps**
 
-**Técnico em Informática — Senac/Heitor Penteado**
-Americana — SP
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-Durante o curso, venho desenvolvendo conhecimentos em programação, desenvolvimento de sistemas, banco de dados, lógica de programação e outras áreas relacionadas à tecnologia.
+**Ferramentas de desenvolvimento**
 
-## 🧰 Tecnologias e ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-Tenho contato e interesse em tecnologias como:
+<br/>
 
-* C#
-* HTML & CSS
-* GitHub
-* Visual Studio
-* Figma
-* Desenvolvimento Web
-* harware em geral
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
   
-
-Estou constantemente buscando evoluir meus conhecimentos e colocar o que aprendo em prática através de projetos.
-
-## 🎯 Objetivo
-
-Meu objetivo é continuar evoluindo na área de tecnologia, adquirir experiência profissional e desenvolver projetos cada vez mais completos, construindo uma base sólida para minha carreira na área de informática e desenvolvimento.
 
 Entre em contato comigo pelo [Instagram](https://www.instagram.com/lnzinn.w019/)
 
