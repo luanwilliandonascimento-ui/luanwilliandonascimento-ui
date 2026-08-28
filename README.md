@@ -4,18 +4,13 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
-## Minhas Skills
-
-
-
-Entre em contato comigo pelo [Instagram](https://www.instagram.com/lnzinn.w019/)
+- 🎓 Estudando Técnico de informática no Senac.
+- 🌱 Aprendendo mais sobre Hardware e Software.
 
  ___
 
  ## Minhas Skills
  [![My Skills](https://skillicons.dev/icons?i=html,css,php,cs,linux,figma)](https://skillicons.dev)
+
+ Entre em contato comigo pelo [Instagram](https://www.instagram.com/lnzinn.w019/)
 
