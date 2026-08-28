@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+Luan Willian | Estudante de TI & Desenvolvedor em formação;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+Luan+Willian+Estudante+de+TI+&+Desenvolvedor+em+formação;)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 # 🧑‍💻 Sobre mim
