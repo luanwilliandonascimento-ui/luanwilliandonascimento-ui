@@ -41,7 +41,8 @@ Tenho contato e interesse em tecnologias como:
 * Visual Studio
 * Figma
 * Desenvolvimento Web
-*harware em geral
+* harware em geral
+  
 
 Estou constantemente buscando evoluir meus conhecimentos e colocar o que aprendo em prática através de projetos.
 
