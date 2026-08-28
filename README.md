@@ -50,6 +50,10 @@ Estou constantemente buscando evoluir meus conhecimentos e colocar o que aprendo
 
 Meu objetivo é continuar evoluindo na área de tecnologia, adquirir experiência profissional e desenvolver projetos cada vez mais completos, construindo uma base sólida para minha carreira na área de informática e desenvolvimento.
 
+Entre em contato comigo pelo [Instagram](https://www.instagram.com/lnzinn.w019/)
 
+ ___
 
-> "Aprender, praticar e evoluir."
+ ## Minhas Skills
+ [![My Skills](https://skillicons.dev/icons?i=html,css,php,cs,linux,figma)](https://skillicons.dev)
+
